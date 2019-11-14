@@ -1,6 +1,9 @@
 # SyntheticXRayProject
 
-A. Moturu and A. Chang, “Creation of synthetic x-rays to train a neural network to detect lung cancer.” http://www.cs.toronto.edu/pub/reports/na/Project_Report_Moturu_Chang_1.pdf, 2018.
+Chang, A., & Moturu, A. (2019). Detecting Early Stage Lung Cancer using a Neural Network
+Trained with Patches from Synthetically Generated X-Rays. https://bit.ly/2pUUbe2 
+
+Moturu, A., & Chang, A. (2018). Creation of Synthetic X-Rays to Train a Neural Network to Detect Lung Cancer. https://bit.ly/2MTHetL
 
 Creation of Synthetic X-Rays to Train a Neural Network to Detect Lung Cancer
 
